@@ -18,7 +18,7 @@ public class Car extends Vehicle {
         this.type=type;
         this.seats=seats;
         currentGear=1;
-        //Hint: Car extends Vehicle
+
     }
 
     public int getWheels() {
